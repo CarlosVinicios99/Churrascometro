@@ -1,8 +1,10 @@
+import ResultadoChurrasco from "../components/ResultadoChurrasco"
 
 const Resultado = () => {
   return (
     <div className="page-container">
-      Resultado
+      <h1>Resultado do Churrasco</h1>
+      <ResultadoChurrasco/>
     </div>
   )
 }
