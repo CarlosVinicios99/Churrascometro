@@ -1,4 +1,3 @@
-import React from 'react'
 import CalculadoraChurrasco from '../components/CalculadoraChurrasco'
 
 const Calculadora = () => {
