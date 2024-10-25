@@ -13,3 +13,4 @@
 </ul>
 
 ## Funcionamento 
+<img src="https://github.com/CarlosVinicios99/Churrascometro/blob/main/2024-10-24%2021-48-34.gif?raw=true">
